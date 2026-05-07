@@ -211,5 +211,8 @@ python data_generation/data_generation.py
 ---
 
 ## Контакти
+TG - @ytopoc
+Linkedin - https://www.linkedin.com/in/volodymyr-yarovoi/
+Email - telephonevovan@gmail.com
 
 Буду радий фідбеку та обговоренню!
