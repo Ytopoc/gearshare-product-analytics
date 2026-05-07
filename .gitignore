@@ -1,0 +1,71 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ---------- Virtual environments ----------
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# ---------- Jupyter / IPython ----------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---------- IDE / editors ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- DBeaver ----------
+.dbeaver/
+.project
+.metadata/
+Sql_scripts/.project
+
+# ---------- OS-specific ----------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ---------- Logs / temp ----------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ---------- Project-specific ----------
+# Keep generated CSVs in the repo so reviewers can run SQL without re-generating data.
+# If the dataset grows large, uncomment the lines below to ignore it instead:
+# data/*.csv
+
+# Notes / drafts not meant for the public repo
+fake_readme.md
+notes.md
+TODO.md
