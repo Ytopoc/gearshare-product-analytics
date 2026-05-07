@@ -211,5 +211,8 @@ Long drone idle time creates a **critical owner churn risk** - if an asset stops
 ---
 
 ## Contact
+TG - @ytopoc
+Linkedin - https://www.linkedin.com/in/volodymyr-yarovoi/
+Email - telephonevovan@gmail.com
 
 Happy to receive feedback and discuss the project!
